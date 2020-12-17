@@ -1,0 +1,9 @@
+dummy_vip:
+  incdirs:
+    - include
+  files:
+    - rtl/dummy_submodule.sv
+    - rtl/dummy_top.sv
+  flags:
+    - skip_synthesis
+
